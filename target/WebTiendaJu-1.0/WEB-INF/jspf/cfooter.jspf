@@ -1,0 +1,47 @@
+<footer class="footer_area">            
+            <div class="container">
+                <div class="row">				
+                    <div class="mx-auto">
+                        <div class="single_ftr">
+                            <h4 class="sf_title">Contacto</h4>
+                            <ul>
+                                
+                                <li><i class="fa fa-map-marker" aria-hidden="true"></i> Av. Carlos Izaguirre, Los Olivos</li>
+                                <li><i class="fa fa-phone" aria-hidden="true"></i> (01)758-142 | (+51)993-987-245</li>
+                                <li><i class="fas fa-envelope" aria-hidden="true"></i> PlanetKIDS.com</li>
+                            </ul>
+                        </div>
+                    </div>
+                          
+                    <div class="mx-auto">
+                        <div class="single_ftr">
+                            <h4 class="sf_title">Informacion</h4>
+                            <ul>
+                                <li> <a href="Nosotros.jsp">Informacion General</a></li>	
+                                <li> <a href="PolEmpresa.jsp">Politicas Privadas</a></li>
+                                <li> <a href="CategoriaServlet?accion=listar">Productos</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="mx-auto">
+                        <div class="single_ftr">
+                            <h4 class="sf_title">Horarios</h4>
+                            <ul>
+                                <li>Lunes y Viernes <br> 10:00am - 7:00pm</li>
+                                <li>Sabado <br> 10:00am - 5:00pm</li>
+                                <li>Domingos <br> 10:00am - 2:00pm</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="ftr_btm_area">
+                    <div class="container">
+                        <div class="row">
+                            <div class="mx-auto">
+                                <p class="payment_mthd_icon text-right" align="center">© 2021 Todos los derechos reservados. | Diseñado por Estudiantes de UTP</p> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+        </footer>

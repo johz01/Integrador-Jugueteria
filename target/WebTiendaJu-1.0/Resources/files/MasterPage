@@ -1,0 +1,21 @@
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <%@include file="WEB-INF/jspf/cmeta.jspf" %>
+        <title>JSP Page</title>
+        <%@include file="WEB-INF/jspf/cstyles.jspf" %>
+    </head>
+    <body>
+        <div class="container-fluid">
+            <%@include file="WEB-INF/jspf/cheader.jspf" %>
+            <%@include file="WEB-INF/jspf/cnavbootstrap.jspf" %>
+            <section>
+
+            </section>   
+            <%@include file="WEB-INF/jspf/cfooter.jspf" %>   
+        </div>
+        <%@include file="WEB-INF/jspf/cscripts.jspf" %>    
+    </body>     
+</html>
+

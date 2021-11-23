@@ -1,0 +1,69 @@
+<div id="carouselExampleIndicators" class="carousel slide carousel-fade" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2" class="active" ></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <div class="mask flex-center">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-md-7 col-12 order-md-1 order-2">
+                                    <div class="carousel_caption">
+                                        <h1>Registrate</h1>
+                                        <h2 style='color: aqua;'>Dale click en registrarte  y se parte de la comunidad</h2>
+                                        <font color="white">Obtén diversas ofertas para el engreído de casa</font> <br> <br>
+                                     
+                                        <a href="registrarse.jsp">Registrate</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-5 col-12 order-md-2 order-1"> <br> <br> <img src="Resources/ImgCarousel/carru_1.jpg" class="mx-auto" alt="slide"></div> 
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="mask flex-center">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-md-7 col-12 order-md-1 order-2">
+                                    <div class="carousel_caption">
+                                        <h1>Promoción de Navidad</h1>
+                                        <h2 style='color: aqua;'>Obtén el 20% dsct</h2>
+                                        <font color="white">Obtén el 20% de desct. si eres una de las primera personas en llegar al local</font>
+                                    </div>
+                                </div>
+                                <div class="col-md-5 col-12 order-md-2 order-1"> <br> <img src="Resources/ImgCarousel/carru_2.jpg" class="mx-auto" alt="slide"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="carousel-item">
+                    <div class="mask flex-center">
+                        <div class="container">
+                            <div class="row align-items-center">
+                                <div class="col-md-7 col-12 order-md-1 order-2">
+                                    <div class="carousel_caption">
+                                        <h1>Conoce más de nosotros</h1>
+                                        <h2 style='color: aqua;'>Trabajadores y nuestra vision</h2>
+                                        <p></p>
+                                        <a href="Nosotros.jsp"> Ir a Nosotros</a>
+                                    </div>
+                                </div>
+                                <div class="col-md-5 col-12 order-md-1 order-2"> <br> <br> <img src="Resources/ImgCarousel/carru_3.jpg" class="mx-auto" alt="slide"/> </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Antes </span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Despues</span>
+            </a>
+        </div>
+        <br> <br> 
