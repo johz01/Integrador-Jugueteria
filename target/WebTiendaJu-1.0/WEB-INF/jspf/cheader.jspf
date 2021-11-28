@@ -28,7 +28,7 @@
                         </li>
                       
                         <li class="nav-item">
-                            <a class="nav-link" href="Login.jsp">LOGIN</a>
+                            <a class="nav-link" href="loginregistro.jsp">LOGIN</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="pagCompra.jsp">CARRITO</a>

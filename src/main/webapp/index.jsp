@@ -11,7 +11,7 @@
         <link href="Resources/css/Index.css" rel="stylesheet" type="text/css"/>        
     </head>
     <body>
-
+       
         <!-- Cabezera -->
         <%@include file="WEB-INF/jspf/cheader.jspf" %>
         <!-- Carrusel de Img -->  
